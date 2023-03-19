@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
-* main
+* main - entry point
 * Description:  Prints a quote to the standard error stream
 *
 * Return: Always 1
